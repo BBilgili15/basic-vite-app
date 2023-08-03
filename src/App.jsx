@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         The hottest of reloads!
       </p>
+      <p className="read-the-docs">
+        Direct from the branch!
+      </p>
     </>
   )
 }
